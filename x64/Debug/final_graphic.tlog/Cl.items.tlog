@@ -1,0 +1,14 @@
+C:\repos\final_Graphics\src\main.cpp;C:\repos\final_graphic\x64\Debug\main.obj
+C:\repos\final_Graphics\src\setting.cpp;C:\repos\final_graphic\x64\Debug\setting.obj
+C:\repos\final_graphic\src\camera\camera.cpp;C:\repos\final_graphic\x64\Debug\camera.obj
+C:\repos\final_graphic\src\glStructure\FBO.cpp;C:\repos\final_graphic\x64\Debug\FBO.obj
+C:\repos\final_graphic\src\imgui.cpp;C:\repos\final_graphic\x64\Debug\imgui.obj
+C:\repos\final_graphic\src\imgui_draw.cpp;C:\repos\final_graphic\x64\Debug\imgui_draw.obj
+C:\repos\final_graphic\src\imgui_impl_glfw.cpp;C:\repos\final_graphic\x64\Debug\imgui_impl_glfw.obj
+C:\repos\final_graphic\src\imgui_impl_opengl3.cpp;C:\repos\final_graphic\x64\Debug\imgui_impl_opengl3.obj
+C:\repos\final_graphic\src\imgui_tables.cpp;C:\repos\final_graphic\x64\Debug\imgui_tables.obj
+C:\repos\final_graphic\src\imgui_widgets.cpp;C:\repos\final_graphic\x64\Debug\imgui_widgets.obj
+C:\repos\final_graphic\src\noise\perlin-zhou.cpp;C:\repos\final_graphic\x64\Debug\perlin-zhou.obj
+C:\repos\final_graphic\src\noise\perlin.cpp;C:\repos\final_graphic\x64\Debug\perlin.obj
+C:\repos\final_graphic\src\noise\worley.cpp;C:\repos\final_graphic\x64\Debug\worley.obj
+C:\repos\final_graphic\src\terrain\terraingenerator.cpp;C:\repos\final_graphic\x64\Debug\terraingenerator.obj
